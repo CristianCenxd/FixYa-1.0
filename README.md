@@ -10,16 +10,14 @@ FixYa es una plataforma que conecta a los usuarios con proveedores de servicios 
 1. [Características Principales](#características-principales)  
 2. [Arquitectura de la Plataforma](#arquitectura-de-la-plataforma)  
 3. [Objetivo del Proyecto](#objetivo-del-proyecto)  
-4. [Cómo Empezar](#cómo-empezar)  
-5. [Contribuyendo](#contribuyendo)  
-6. [Licencia](#licencia)  
+4. [Cómo Empezar](#cómo-empezar)   
 
 ---
 
 ## Características Principales
 
-- **Servicios de Limpieza y Mantenimiento**  
-  Ofrece un catálogo de servicios confiables para el hogar, con proveedores verificados para asegurar calidad y seguridad.
+- **Servicios de Limpieza**  
+  Ofrece un catálogo de servicios confiables para el hogar.
   
 - **Proceso de Solicitud Rápido**  
   En pocos pasos, los usuarios pueden seleccionar y confirmar el servicio que necesitan.  
