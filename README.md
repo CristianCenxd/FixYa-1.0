@@ -20,7 +20,7 @@
 1. [Características Principales](#características-principales)  
 2. [Arquitectura de la Plataforma](#arquitectura-de-la-plataforma)  
 3. [Objetivo del Proyecto](#objetivo-del-proyecto)  
-4. [Capturas de Pantalla](#capturas-de-pantalla)  
+4. [Diseños de la App](#capturas-de-pantalla)  
 5. [Contribución](#contribución)
 
 ---
@@ -74,7 +74,7 @@ El propósito de **FixYa** es resolver la dificultad de encontrar servicios de l
 
 ---
 
-## :camera_flash: Diseños de la app
+## :camera_flash: Diseños de la App
 > **Nota:** A continuación se muestra un breve recorrido por la aplicación. Estas capturas representan una versión preliminar de **FixYa** y pueden variar en la versión final.
 
 ---
