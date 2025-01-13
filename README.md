@@ -65,10 +65,6 @@ El propósito de FixYa es resolver la dificultad de encontrar servicios de limpi
 - **Garantizar** la transparencia y confianza en cada interacción.  
 
 ---
-
-## Cómo Empezar
-
-1. **Clona el repositorio**  
  
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 
@@ -76,7 +72,7 @@ El propósito de FixYa es resolver la dificultad de encontrar servicios de limpi
 
 ----	
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=tokyonight_duo" alt="7oSkaaa" /></p>
+<p align="center"><img src="" alt="" /></p>
 
 </details>
   
@@ -182,11 +178,3 @@ El propósito de FixYa es resolver la dificultad de encontrar servicios de limpi
   </p>
 </div>
 </details>
-
-</br></br>
-	
-## 🐍 A Snake Eating my Contributions Graph
-	
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
