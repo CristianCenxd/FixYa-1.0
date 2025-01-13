@@ -109,11 +109,3 @@ El propósito de FixYa es resolver la dificultad de encontrar servicios de limpi
 </details>
 	
 <details><summary><h3> :open_file_folder: My Repositories </h3></summary>
-
-----
-	
-<div>
-  
-  </p>
-</div>
-</details>
