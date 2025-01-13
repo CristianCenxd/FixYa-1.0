@@ -1,4 +1,4 @@
-# 💻 FixYa 
+# !FixYa others/fixya logo blanco.png 
 
 ¡Bienvenido(a) al repositorio de **FixYa**!  
 FixYa es una plataforma que conecta a los usuarios con proveedores de servicios de limpieza y mantenimiento, ofreciendo soluciones rápidas y confiables para el hogar.  
