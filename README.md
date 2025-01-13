@@ -68,7 +68,11 @@ El propósito de FixYa es resolver la dificultad de encontrar servicios de limpi
  
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 
-<details><summary><h3> 🔥 Streak Stats</h3></summary>
+<details><summary><h3> :house_with_garden: Bienvenido</h3></summary>
+
+¡Bienvenido(a) al repositorio de **FixYa**!  
+FixYa es una plataforma que conecta a los usuarios con proveedores de servicios de limpieza y mantenimiento, ofreciendo soluciones rápidas y confiables para el hogar.  
+
 
 ----	
 
