@@ -1,16 +1,18 @@
-# FixYa <picture> <img src = "others/fixya logo blanco.png" width = 100px> </picture>
-
+# FixYa 📌
 ¡Bienvenido(a) al repositorio de **FixYa**!  
 FixYa es una plataforma que conecta a los usuarios con proveedores de servicios de limpieza y mantenimiento, ofreciendo soluciones rápidas y confiables para el hogar.  
+
+<p align="center"><picture> <img src = "others/fixya logo blanco.png" width = 600px> </picture> </p>
+
 
 ---
 
 ## :floppy_disk: Tabla de Contenidos
 
-1. [Características Principales](#características-principales)  
-2. [Arquitectura de la Plataforma](#arquitectura-de-la-plataforma)  
-3. [Objetivo del Proyecto](#objetivo-del-proyecto)  
-4. [Cómo Empezar](#cómo-empezar)   
+1️⃣ [Características Principales](#características-principales)  
+2️⃣ [Arquitectura de la Plataforma](#arquitectura-de-la-plataforma)  
+3️⃣ [Objetivo del Proyecto](#objetivo-del-proyecto)  
+4️⃣ [Cómo Empezar](#cómo-empezar)   
 
 ---
 
@@ -39,7 +41,7 @@ FixYa es una plataforma que conecta a los usuarios con proveedores de servicios 
 
 ---
 
-## Arquitectura de la Plataforma
+## 🚧 Arquitectura de la Plataforma
 
 1. **Aplicación Móvil (Usuarios)**  
    - Permite a los residentes explorar servicios disponibles, revisar detalles y costos, así como solicitar servicios de limpieza o mantenimiento.  
@@ -56,7 +58,7 @@ FixYa es una plataforma que conecta a los usuarios con proveedores de servicios 
 
 ---
 
-## Objetivo del Proyecto
+## :clipboard: Objetivo del Proyecto
 
 El propósito de FixYa es resolver la dificultad de encontrar servicios de limpieza y mantenimiento confiables. A través de una aplicación intuitiva y un sistema de suscripción para proveedores, buscamos:
 
