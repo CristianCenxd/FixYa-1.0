@@ -138,6 +138,66 @@ Mediante una interfaz intuitiva y un sistema de suscripción para proveedores, s
 
 ---
 
+## :desktop_computer: Diseños Web de la Plataforma
+> **Nota:** Estas capturas representan versiones preliminares de la plataforma web de **FixYa** y pueden variar en la versión final.
+
+---
+
+### 1. Agenda
+**Descripción:** Muestra un calendario o listado donde los proveedores pueden organizar sus servicios y los usuarios visualizar sus próximas citas.  
+<p align="center">
+  <picture>
+    <img src="others/capturas apartado web/Agenda.png" width="400px" alt="Pantalla de Agenda">
+  </picture>
+</p>
+
+---
+
+### 2. Dashboard
+**Descripción:** Un panel principal que ofrece una visión general de las métricas, notificaciones y accesos rápidos a secciones clave para los proveedores y administradores.  
+<p align="center">
+  <picture>
+    <img src="others/capturas apartado web/Dashboard.png" width="400px" alt="Pantalla de Dashboard">
+  </picture>
+</p>
+
+---
+
+### 3. Inicio de Sesión
+**Descripción:** Pantalla de login para proveedores o administradores, que les permite ingresar al sistema e iniciar su sesión de manera segura.  
+<p align="center">
+  <picture>
+    <img src="others/capturas apartado web/Inicio de sesión.png" width="400px" alt="Pantalla de Inicio de Sesión Web">
+  </picture>
+</p>
+
+---
+
+### 4. Recuperación de Contraseña
+**Descripción:** Desde esta pantalla, los proveedores o administradores pueden solicitar el restablecimiento de contraseña mediante su correo electrónico o número de teléfono.  
+<p align="center">
+  <picture>
+    <img src="others/capturas apartado web/Recuperar contraseña.png" width="400px" alt="Pantalla de Recuperación de Contraseña">
+  </picture>
+</p>
+
+---
+
+### 5. Solicitudes
+**Descripción:** Pantalla para consultar todas las solicitudes de servicios, pendientes o concluidas, con opciones para filtrar, aprobar, rechazar o escalar las solicitudes según sea necesario.  
+<p align="center">
+  <picture>
+    <img src="others/capturas apartado web/Solicitudes.png" width="400px" alt="Pantalla de Solicitudes">
+  </picture>
+</p>
+
+---
+
+> **Advertencia:** Al igual que en la aplicación móvil, estos diseños web están sujetos a cambios conforme avanza el desarrollo y se reciben comentarios de los usuarios y el equipo de desarrollo.
+
+---
+
+
 ## :handshake: Contribución
 A continuación, reconocemos y agradecemos a todas las personas que han contribuido directa o indirectamente al desarrollo de **FixYa**. Cada aportación, desde la programación hasta el diseño y las pruebas, ha sido fundamental para construir esta plataforma.  
 
