@@ -70,7 +70,15 @@ El propósito de FixYa es resolver la dificultad de encontrar servicios de limpi
 
 1. **Clona el repositorio**  
  
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 
+<details><summary><h3> 🔥 Streak Stats</h3></summary>
+
+----	
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=tokyonight_duo" alt="7oSkaaa" /></p>
+
+</details>
   
 <details><summary><h3>💻 GitHub Profile Stats</h3></summary>
 
