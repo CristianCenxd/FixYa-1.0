@@ -137,10 +137,10 @@ El propósito de **FixYa** es resolver la dificultad de encontrar servicios de l
 A continuación, reconocemos y agradecemos a todas las personas que han contribuido directa o indirectamente al desarrollo de **FixYa**. Cada aportación, desde la programación hasta el diseño y las pruebas, ha sido fundamental para construir esta plataforma.  
 
 ### Equipo de Desarrollo
-- **Nombre del Desarrollador/a** – *Rol/Responsabilidades principales*  
-- **Nombre del Desarrollador/a** – *Rol/Responsabilidades principales*  
-- **Nombre del Desarrollador/a** – *Rol/Responsabilidades principales*  
-- *(Agrega tantas líneas como sea necesario)*
+- **Cristian Alexander Gonzalez cen** – *Rol/Responsabilidades principales*  
+- **Jafet Castro** – *Rol/Responsabilidades principales*  
+- **Jose Mandujano Carrillo/BLUE** – *Rol/Responsabilidades principales*  
+- **Miguel Alberto Basto Tumux** – *Rol/Responsabilidades principales* 
 
 ### Formas de Participar
 Si deseas formar parte de nuestro equipo o colaborar con ideas, sugerencias o mejoras, por favor revisa los [Issues](#) y crea un nuevo *issue* o *pull request* con tu propuesta.  
