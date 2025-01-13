@@ -5,7 +5,7 @@ FixYa es una plataforma que conecta a los usuarios con proveedores de servicios 
 
 ---
 
-## Tabla de Contenidos
+## :floppy_disk: Tabla de Contenidos
 
 1. [Características Principales](#características-principales)  
 2. [Arquitectura de la Plataforma](#arquitectura-de-la-plataforma)  
@@ -14,7 +14,7 @@ FixYa es una plataforma que conecta a los usuarios con proveedores de servicios 
 
 ---
 
-## Características Principales
+## :page_with_curl: Características Principales
 
 - **Servicios de Limpieza**  
   Ofrece un catálogo de servicios confiables para el hogar.
